@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+<update>
+<name>LED Tablo</name>
+<description>Модуль светодиодного табло "Бегущая строка"</description>
+<element>mod_tablo</element>
+<type>module</type>
+<version>1.0.0</version>
+<client_id>0</client_id>
+<client>0</client>
+<downloads>
+<downloadurl type="full" format="zip">https://github.com/Hishchnik/mod_tablo/archive/master.zip</downloadurl>
+</downloads>
+<maintainer>Hishchnik</maintainer>
+<maintainerurl>http://rusall.mu3space.ru</maintainerurl>
+<targetplatform name="joomla" version="3.[012345]"/>
+</update>
+<update>
+<name>LED Tablo</name>
+<description>Модуль светодиодного табло "Бегущая строка"</description>
+<element>mod_tablo</element>
+<type>module</type>
+<version>1.0.0</version>
+<client_id>0</client_id>
+<client>0</client>
+<downloads>
+<downloadurl type="full" format="zip">http://rusall.my3space.ru/update/files/mod_tablo_1.0.0.zip
+</downloadurl>
+</downloads>
+<maintainer>Hishchnik</maintainer>
+<maintainerurl>http://rusall.mu3space.ru</maintainerurl>
+<targetplatform name="joomla" version="2.5"/>
+</update>
+</updates>
